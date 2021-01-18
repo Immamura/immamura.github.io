@@ -1,0 +1,20 @@
+.name0{
+	text-align: center;
+	font-size: 45px;
+	font-style: italic;
+	color: white;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.name1{
+	vertical-align: -60px;
+}
+
+body {
+ background-image: url("bg.jpg");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+
