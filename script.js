@@ -3,7 +3,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 	var syn=document.getElementById('name1')
 	syn.style.fontSize = "30px";
 	var syn0=document.getElementById('button')
-	syn0.style.left="48%";
+	syn0.style.left="46%";
 	syn0.style.top="65%";
   } else {
     void(0)
