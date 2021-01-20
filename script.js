@@ -4,10 +4,10 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 	syn.style.fontSize = "30px";
 	var syn0=document.getElementById('button')
 	syn0.style.left="51%";
-	syn0.style.top="60%";
+	syn0.style.top="65%";
 	var syn1=document.getElementById('contact')
-	syn1.style.left="25%";
-	syn1.style.top="45%";
+	syn1.style.left="23%";
+	syn1.style.top="48%";
 	
   } else {
     void(0)
