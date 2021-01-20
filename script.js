@@ -4,7 +4,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 	syn.style.fontSize = "30px";
 	var syn0=document.getElementById('button')
 	syn0.style.left="51%";
-	syn0.style.top="57%";
+	syn0.style.top="60%";
   } else {
     void(0)
 }
