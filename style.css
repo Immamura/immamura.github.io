@@ -16,6 +16,14 @@
   margin-right: auto;
 }
 
+.contact{
+	position: absolute;
+	left: 44.4%;
+	top: 49%;
+	font-family: "Courier New", Courier, monospace;
+	color: white;
+}
+
 body {
  background-image: url("bg.jpg");
  background-color: #cccccc;
@@ -35,7 +43,7 @@ body {
 #button {
     margin: 10%;
     position: absolute;
-    top: 48%;
+    top: 49%;
     left: 43%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
